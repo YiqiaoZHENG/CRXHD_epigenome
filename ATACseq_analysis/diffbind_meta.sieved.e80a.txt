@@ -1,0 +1,10 @@
+SampleID	Tissue	Factor	Replicate	bamReads	Peaks	PeakCaller
+wt1	retina	WT	1	sievedbam/wt1.allFragments.bam	macs2peak/wt1_macs2/wt1_macs2_peaks.narrowPeak	narrow
+wt2	retina	WT	2	sievedbam/wt2.allFragments.bam	macs2peak/wt2_macs2/wt2_macs2_peaks.narrowPeak	narrow
+wt3	retina	WT	3	sievedbam/wt3.allFragments.bam	macs2peak/wt3_macs2/wt3_macs2_peaks.narrowPeak	narrow
+ehet4	retina	AT	1	sievedbam/ehet4.allFragments.bam	macs2peak/ehet4_macs2/ehet4_macs2_peaks.narrowPeak	narrow
+ehet5	retina	AT	2	sievedbam/ehet5.allFragments.bam	macs2peak/ehet5_macs2/ehet5_macs2_peaks.narrowPeak	narrow
+ehet6	retina	AT	3	sievedbam/ehet6.allFragments.bam	macs2peak/ehet6_macs2/ehet6_macs2_peaks.narrowPeak	narrow
+ehom1	retina	AA	1	sievedbam/ehom1.allFragments.bam	macs2peak/ehom1_macs2/ehom1_macs2_peaks.narrowPeak	narrow
+ehom2	retina	AA	2	sievedbam/ehom2.allFragments.bam	macs2peak/ehom2_macs2/ehom2_macs2_peaks.narrowPeak	narrow
+ehom3	retina	AA	3	sievedbam/ehom3.allFragments.bam	macs2peak/ehom3_macs2/ehom3_macs2_peaks.narrowPeak	narrow

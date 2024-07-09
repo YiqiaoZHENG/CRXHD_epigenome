@@ -1,0 +1,3284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2122.3 741.2" style="enable-background:new 0 0 2122.3 741.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:8px;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;}
+	.st4{font-size:9.6px;}
+	.st5{stroke:#000000;stroke-width:0.8;stroke-linejoin:round;}
+	.st6{clip-path:url(#SVGID_00000049918436187317483140000010214100710172308402_);fill:none;}
+	.st7{clip-path:url(#SVGID_00000175321759277580640610000004898592574798805928_);fill:none;}
+	.st8{clip-path:url(#SVGID_00000112601146304194124010000018079639668298509999_);fill:none;}
+	.st9{clip-path:url(#SVGID_00000018930548198460614930000012727197612579772605_);fill:none;}
+	.st10{clip-path:url(#SVGID_00000150804339724887734890000009130117519829624214_);fill:none;}
+	.st11{clip-path:url(#SVGID_00000024719121467784565440000005254324853388683919_);fill:none;}
+	.st12{clip-path:url(#SVGID_00000139985809638264544420000013707085537100312203_);fill:none;}
+	.st13{clip-path:url(#SVGID_00000138568563668263897020000015448223863120997022_);fill:none;}
+	.st14{clip-path:url(#SVGID_00000013188592729658418220000003722164478108162441_);fill:none;}
+	.st15{clip-path:url(#SVGID_00000112593336231459637250000006992781558549731969_);fill:none;}
+	.st16{clip-path:url(#SVGID_00000052814553576150297290000003331586145744897211_);fill:none;}
+	.st17{clip-path:url(#SVGID_00000004527585675327273980000016772168023226459778_);fill:none;}
+	.st18{clip-path:url(#SVGID_00000087394170361972464040000008255648767570595210_);fill:none;}
+	.st19{clip-path:url(#SVGID_00000046306507247658411410000008964849754540457622_);fill:none;}
+	.st20{clip-path:url(#SVGID_00000107547511946800324280000018099557849609634751_);fill:none;}
+	.st21{clip-path:url(#SVGID_00000165200993131586078430000001354380508606328488_);fill:none;}
+	.st22{clip-path:url(#SVGID_00000100374759522663482810000002689621691247723399_);fill:none;}
+	.st23{clip-path:url(#SVGID_00000147919419674391308490000012999875099809272253_);fill:none;}
+	.st24{clip-path:url(#SVGID_00000077286456052949318410000007210493516382912920_);fill:none;}
+	.st25{clip-path:url(#SVGID_00000083788929340272119000000013618266850521098157_);fill:none;}
+</style>
+<g id="figure_1">
+	<g id="patch_1">
+		<path class="st0" d="M4.9,741.2h2122.3V0H4.9V741.2z"/>
+	</g>
+	<g id="axes_1">
+		<g id="patch_2">
+			<path class="st0" d="M27.3,517.8h95.3V20.5H27.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image10a35dcba8" xlink:href="46AFC065.png"  transform="matrix(0.12 0 0 -0.12 27.3166 517.8)">
+		</image>
+		<g id="matplotlib.axis_1">
+			<g id="text_1">
+				<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 18.1554 282.2863)" class="st1 st2">nn.gain</text>
+			</g>
+		</g>
+		<g id="patch_3">
+			<path class="st3" d="M27.3,517.8V20.5"/>
+		</g>
+		<g id="patch_4">
+			<path class="st3" d="M122.6,517.8V20.5"/>
+		</g>
+		<g id="patch_5">
+			<path class="st3" d="M27.3,517.8h95.3"/>
+		</g>
+		<g id="patch_6">
+			<path class="st3" d="M27.3,20.5h95.3"/>
+		</g>
+		<g id="text_2">
+			<text transform="matrix(1 0 0 1 60.0125 14.4945)" class="st1 st4">wt.chip</text>
+		</g>
+	</g>
+	<g id="axes_2">
+		<g id="patch_7">
+			<path class="st0" d="M27.3,665.6h95.3V522.1H27.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image788e1682ac" xlink:href="46AFC067.png"  transform="matrix(0.12 0 0 -0.12 27.3166 665.52)">
+		</image>
+		<g id="matplotlib.axis_2">
+			<g id="xtick_1">
+				<g id="line2d_1">
+					<g>
+						<g>
+							<path id="m8d50a85d93" class="st5" d="M27.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_3">
+					<text transform="matrix(1 0 0 1 27.4382 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_2">
+				<g id="line2d_2">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000026131478723660291960000003288012676159844019_" class="st5" d="M74.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_4">
+					<text transform="matrix(1 0 0 1 61.9437 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_3">
+				<g id="line2d_3">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000166674709446580424000000011059516681482779266_" class="st5" d="M122.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_5">
+					<text transform="matrix(1 0 0 1 101.5586 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_6">
+				<text transform="matrix(1 0 0 1 40.9437 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_3">
+			<g id="text_7">
+				<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 18.1554 605.6486)" class="st1 st2">nn.lost</text>
+			</g>
+		</g>
+		<g id="patch_8">
+			<path class="st3" d="M27.3,665.6V522.1"/>
+		</g>
+		<g id="patch_9">
+			<path class="st3" d="M122.6,665.6V522.1"/>
+		</g>
+		<g id="patch_10">
+			<path class="st3" d="M27.3,665.6h95.3"/>
+		</g>
+		<g id="patch_11">
+			<path class="st3" d="M27.3,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_3">
+		<g id="patch_12">
+			<path class="st0" d="M27.3,719.2h95.3v-9H27.3V719.2z"/>
+		</g>
+		<g id="patch_13">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="27.3" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000128483432661355288420000004993624645311436986_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000128483432661355288420000004993624645311436986_);fill:none;" d="M27.3,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="imagecc32668f55" xlink:href="46AFC062.png"  transform="matrix(0.12 0 0 -0.12 27.3166 719.16)">
+		</image>
+		<g id="matplotlib.axis_4">
+			<g id="xtick_4">
+				<g id="line2d_4">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000150071690278978548370000009357780485062036406_" class="st5" d="M27.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_8">
+					<text transform="matrix(1 0 0 1 27.3191 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_5">
+				<g id="line2d_5">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000141415881586077325450000012733392267240868753_" class="st5" d="M59.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_9">
+					<text transform="matrix(1 0 0 1 53.5135 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_6">
+				<g id="line2d_6">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000158719359395295723510000002236257097343555478_" class="st5" d="M90.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_10">
+					<text transform="matrix(1 0 0 1 85.2684 732.3134)" class="st1 st2">0.8</text>
+				</g>
+			</g>
+			<g id="xtick_7">
+				<g id="line2d_7">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000151528647004168017790000009234360187843422612_" class="st5" d="M122.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_11">
+					<text transform="matrix(1 0 0 1 117.0233 732.3134)" class="st1 st2">1.2</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_1">
+		</g>
+		<g id="patch_14">
+			<path class="st3" d="M27.3,719.2v-4.5v-4.5h95.3v4.5v4.5H27.3z"/>
+		</g>
+	</g>
+	<g id="axes_4">
+		<g id="patch_15">
+			<path class="st0" d="M132.1,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="imagee26ce99ca7" xlink:href="46AFC063.png"  transform="matrix(0.12 0 0 -0.12 132.0766 517.8)">
+		</image>
+		<g id="matplotlib.axis_5">
+		</g>
+		<g id="patch_16">
+			<path class="st3" d="M132.1,517.8V20.5"/>
+		</g>
+		<g id="patch_17">
+			<path class="st3" d="M227.4,517.8V20.5"/>
+		</g>
+		<g id="patch_18">
+			<path class="st3" d="M132.1,517.8h95.3"/>
+		</g>
+		<g id="patch_19">
+			<path class="st3" d="M132.1,20.5h95.3"/>
+		</g>
+		<g id="text_12">
+			<text transform="matrix(1 0 0 1 158.9256 14.4945)" class="st1 st4">e80a.chip</text>
+		</g>
+	</g>
+	<g id="axes_5">
+		<g id="patch_20">
+			<path class="st0" d="M132.1,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imagec5108cad14" xlink:href="46AFC06D.png"  transform="matrix(0.12 0 0 -0.12 132.0766 665.52)">
+		</image>
+		<g id="matplotlib.axis_6">
+			<g id="xtick_8">
+				<g id="line2d_8">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000059987958920995005710000012959427590909693611_" class="st5" d="M132.2,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_13">
+					<text transform="matrix(1 0 0 1 132.2294 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_9">
+				<g id="line2d_9">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000151530425211315537650000008481851058663509399_" class="st5" d="M179.6,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_14">
+					<text transform="matrix(1 0 0 1 166.735 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_10">
+				<g id="line2d_10">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000013174206383906958730000014389873483823746984_" class="st5" d="M227.3,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_15">
+					<text transform="matrix(1 0 0 1 206.3499 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_16">
+				<text transform="matrix(1 0 0 1 145.735 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_7">
+		</g>
+		<g id="patch_21">
+			<path class="st3" d="M132.1,665.6V522.1"/>
+		</g>
+		<g id="patch_22">
+			<path class="st3" d="M227.4,665.6V522.1"/>
+		</g>
+		<g id="patch_23">
+			<path class="st3" d="M132.1,665.6h95.3"/>
+		</g>
+		<g id="patch_24">
+			<path class="st3" d="M132.1,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_6">
+		<g id="patch_25">
+			<path class="st0" d="M132.1,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_26">
+			<g>
+				<defs>
+					<rect id="SVGID_00000064329138117254396140000008966654527579475642_" x="132.1" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000104673039192632231530000010440306349882755493_">
+					<use xlink:href="#SVGID_00000064329138117254396140000008966654527579475642_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000104673039192632231530000010440306349882755493_);fill:none;" d="M132.1,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image1b66921dca" xlink:href="46AFC06F.png"  transform="matrix(0.12 0 0 -0.12 132.0766 719.16)">
+		</image>
+		<g id="matplotlib.axis_8">
+			<g id="xtick_11">
+				<g id="line2d_11">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000100380697830493175460000002931560779807218079_" class="st5" d="M132.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_17">
+					<text transform="matrix(1 0 0 1 132.1104 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_12">
+				<g id="line2d_12">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000075139417359957337000000018045563861673439108_" class="st5" d="M163.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_18">
+					<text transform="matrix(1 0 0 1 158.3047 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_13">
+				<g id="line2d_13">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000138548185636528184860000010059388015712301198_" class="st5" d="M195.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_19">
+					<text transform="matrix(1 0 0 1 190.0597 732.3134)" class="st1 st2">0.8</text>
+				</g>
+			</g>
+			<g id="xtick_14">
+				<g id="line2d_14">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000071528598466625542530000006164527313590559927_" class="st5" d="M227.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_20">
+					<text transform="matrix(1 0 0 1 221.8146 732.3134)" class="st1 st2">1.2</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_2">
+		</g>
+		<g id="patch_27">
+			<path class="st3" d="M132.1,719.2v-4.5v-4.5h95.3v4.5v4.5H132.1z"/>
+		</g>
+	</g>
+	<g id="axes_7">
+		<g id="patch_28">
+			<path class="st0" d="M236.9,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image00b1d3a53a" xlink:href="46AFC060.png"  transform="matrix(0.12 0 0 -0.12 236.9566 517.8)">
+		</image>
+		<g id="matplotlib.axis_9">
+		</g>
+		<g id="patch_29">
+			<path class="st3" d="M236.9,517.8V20.5"/>
+		</g>
+		<g id="patch_30">
+			<path class="st3" d="M332.2,517.8V20.5"/>
+		</g>
+		<g id="patch_31">
+			<path class="st3" d="M236.9,517.8h95.3"/>
+		</g>
+		<g id="patch_32">
+			<path class="st3" d="M236.9,20.5h95.3"/>
+		</g>
+		<g id="text_21">
+			<text transform="matrix(1 0 0 1 263.9864 14.4945)" class="st1 st4">k88n.chip</text>
+		</g>
+	</g>
+	<g id="axes_8">
+		<g id="patch_33">
+			<path class="st0" d="M236.9,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imaged01a801db4" xlink:href="46AFC061.png"  transform="matrix(0.12 0 0 -0.12 236.9566 665.52)">
+		</image>
+		<g id="matplotlib.axis_10">
+			<g id="xtick_15">
+				<g id="line2d_15">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000088094575225032668730000005185768068412459431_" class="st5" d="M237,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_22">
+					<text transform="matrix(1 0 0 1 237.0208 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_16">
+				<g id="line2d_16">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000181787998357421488190000012108071838394767239_" class="st5" d="M284.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_23">
+					<text transform="matrix(1 0 0 1 271.5263 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_17">
+				<g id="line2d_17">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000032615451652880852280000015480621728544435841_" class="st5" d="M332,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_24">
+					<text transform="matrix(1 0 0 1 311.1411 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_25">
+				<text transform="matrix(1 0 0 1 250.5262 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_11">
+		</g>
+		<g id="patch_34">
+			<path class="st3" d="M236.9,665.6V522.1"/>
+		</g>
+		<g id="patch_35">
+			<path class="st3" d="M332.2,665.6V522.1"/>
+		</g>
+		<g id="patch_36">
+			<path class="st3" d="M236.9,665.6h95.3"/>
+		</g>
+		<g id="patch_37">
+			<path class="st3" d="M236.9,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_9">
+		<g id="patch_38">
+			<path class="st0" d="M236.9,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_39">
+			<g>
+				<defs>
+					<rect id="SVGID_00000018928358841863459950000005967397740751230341_" x="236.9" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000087374950579074956930000018231843325614436750_">
+					<use xlink:href="#SVGID_00000018928358841863459950000005967397740751230341_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000087374950579074956930000018231843325614436750_);fill:none;" d="M236.9,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="793" height="75" id="imaged8ceb37517" xlink:href="46AFC066.png"  transform="matrix(0.12 0 0 -0.12 236.9566 719.16)">
+		</image>
+		<g id="matplotlib.axis_12">
+			<g id="xtick_18">
+				<g id="line2d_18">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000135685338757934461600000000301728314794758833_" class="st5" d="M236.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_26">
+					<text transform="matrix(1 0 0 1 236.9017 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_19">
+				<g id="line2d_19">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000098940162549149551600000015518500489629086850_" class="st5" d="M268.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_27">
+					<text transform="matrix(1 0 0 1 263.0961 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_20">
+				<g id="line2d_20">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000138535783749668410410000012278696998400516251_" class="st5" d="M300.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_28">
+					<text transform="matrix(1 0 0 1 294.851 732.3134)" class="st1 st2">0.8</text>
+				</g>
+			</g>
+			<g id="xtick_21">
+				<g id="line2d_21">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000151501678026124471140000017623602770514302889_" class="st5" d="M332.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_29">
+					<text transform="matrix(1 0 0 1 326.6059 732.3134)" class="st1 st2">1.2</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_3">
+		</g>
+		<g id="patch_40">
+			<path class="st3" d="M236.9,719.2v-4.5v-4.5h95.3v4.5v4.5H236.9z"/>
+		</g>
+	</g>
+	<g id="axes_10">
+		<g id="patch_41">
+			<path class="st0" d="M341.7,517.8H437V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image0ae0e1128c" xlink:href="3766CEAE.png"  transform="matrix(0.12 0 0 -0.12 341.7166 517.8)">
+		</image>
+		<g id="matplotlib.axis_13">
+		</g>
+		<g id="patch_42">
+			<path class="st3" d="M341.7,517.8V20.5"/>
+		</g>
+		<g id="patch_43">
+			<path class="st3" d="M437,517.8V20.5"/>
+		</g>
+		<g id="patch_44">
+			<path class="st3" d="M341.7,517.8H437"/>
+		</g>
+		<g id="patch_45">
+			<path class="st3" d="M341.7,20.5H437"/>
+		</g>
+		<g id="text_30">
+			<text transform="matrix(1 0 0 1 369.0472 14.4945)" class="st1 st4">r90w.chip</text>
+		</g>
+	</g>
+	<g id="axes_11">
+		<g id="patch_46">
+			<path class="st0" d="M341.7,665.6H437V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imagecdf1198aa4" xlink:href="3766CEA9.png"  transform="matrix(0.12 0 0 -0.12 341.7166 665.52)">
+		</image>
+		<g id="matplotlib.axis_14">
+			<g id="xtick_22">
+				<g id="line2d_22">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000064313287369239368570000017845855419263850685_" class="st5" d="M341.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_31">
+					<text transform="matrix(1 0 0 1 341.812 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_23">
+				<g id="line2d_23">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000043449200670290442080000007437835659380132793_" class="st5" d="M389.2,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_32">
+					<text transform="matrix(1 0 0 1 376.3176 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_24">
+				<g id="line2d_24">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000075139789432299883330000013557855234823462334_" class="st5" d="M436.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_33">
+					<text transform="matrix(1 0 0 1 415.9324 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_34">
+				<text transform="matrix(1 0 0 1 355.3175 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_15">
+		</g>
+		<g id="patch_47">
+			<path class="st3" d="M341.7,665.6V522.1"/>
+		</g>
+		<g id="patch_48">
+			<path class="st3" d="M437,665.6V522.1"/>
+		</g>
+		<g id="patch_49">
+			<path class="st3" d="M341.7,665.6H437"/>
+		</g>
+		<g id="patch_50">
+			<path class="st3" d="M341.7,522.1H437"/>
+		</g>
+	</g>
+	<g id="axes_12">
+		<g id="patch_51">
+			<path class="st0" d="M341.7,719.2H437v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_52">
+			<g>
+				<defs>
+					<rect id="SVGID_00000054244982050223372710000003386045774896997271_" x="341.7" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000086688995313912256490000016624861874867288461_">
+					<use xlink:href="#SVGID_00000054244982050223372710000003386045774896997271_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000086688995313912256490000016624861874867288461_);fill:none;" d="M341.7,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image8eedb11c55" xlink:href="3766CEAA.png"  transform="matrix(0.12 0 0 -0.12 341.7166 719.16)">
+		</image>
+		<g id="matplotlib.axis_16">
+			<g id="xtick_25">
+				<g id="line2d_25">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000127757783561717647510000007298089724462319768_" class="st5" d="M341.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_35">
+					<text transform="matrix(1 0 0 1 341.6929 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_26">
+				<g id="line2d_26">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000078740350378179078170000004542601188729837220_" class="st5" d="M373.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_36">
+					<text transform="matrix(1 0 0 1 367.8873 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_27">
+				<g id="line2d_27">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000014623376518118158860000008425444977187003266_" class="st5" d="M405.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_37">
+					<text transform="matrix(1 0 0 1 399.6423 732.3134)" class="st1 st2">0.8</text>
+				</g>
+			</g>
+			<g id="xtick_28">
+				<g id="line2d_28">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000159464220602908800710000012202797613975994543_" class="st5" d="M437,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_38">
+					<text transform="matrix(1 0 0 1 431.3972 732.3134)" class="st1 st2">1.2</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_4">
+		</g>
+		<g id="patch_53">
+			<path class="st3" d="M341.7,719.2v-4.5v-4.5H437v4.5v4.5H341.7z"/>
+		</g>
+	</g>
+	<g id="axes_13">
+		<g id="patch_54">
+			<path class="st0" d="M446.5,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image84ef3e2be9" xlink:href="3766CEA8.png"  transform="matrix(0.12 0 0 -0.12 446.4766 517.8)">
+		</image>
+		<g id="matplotlib.axis_17">
+		</g>
+		<g id="patch_55">
+			<path class="st3" d="M446.5,517.8V20.5"/>
+		</g>
+		<g id="patch_56">
+			<path class="st3" d="M541.7,517.8V20.5"/>
+		</g>
+		<g id="patch_57">
+			<path class="st3" d="M446.5,517.8h95.3"/>
+		</g>
+		<g id="patch_58">
+			<path class="st3" d="M446.5,20.5h95.3"/>
+		</g>
+		<g id="text_39">
+			<text transform="matrix(1 0 0 1 473.5737 14.4945)" class="st1 st4">nrlko.chip</text>
+		</g>
+	</g>
+	<g id="axes_14">
+		<g id="patch_59">
+			<path class="st0" d="M446.5,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image30a49c1421" xlink:href="3766CEA6.png"  transform="matrix(0.12 0 0 -0.12 446.4766 665.52)">
+		</image>
+		<g id="matplotlib.axis_18">
+			<g id="xtick_29">
+				<g id="line2d_29">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000013871775558035974750000009376351524998788540_" class="st5" d="M446.6,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_40">
+					<text transform="matrix(1 0 0 1 446.6033 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_30">
+				<g id="line2d_30">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000161595950209497645330000008181325551322062996_" class="st5" d="M494,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_41">
+					<text transform="matrix(1 0 0 1 481.1089 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_31">
+				<g id="line2d_31">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000018212013527193129950000013241407705936609698_" class="st5" d="M541.6,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_42">
+					<text transform="matrix(1 0 0 1 520.7237 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_43">
+				<text transform="matrix(1 0 0 1 460.1088 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_19">
+		</g>
+		<g id="patch_60">
+			<path class="st3" d="M446.5,665.6V522.1"/>
+		</g>
+		<g id="patch_61">
+			<path class="st3" d="M541.7,665.6V522.1"/>
+		</g>
+		<g id="patch_62">
+			<path class="st3" d="M446.5,665.6h95.3"/>
+		</g>
+		<g id="patch_63">
+			<path class="st3" d="M446.5,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_15">
+		<g id="patch_64">
+			<path class="st0" d="M446.5,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_65">
+			<g>
+				<defs>
+					<rect id="SVGID_00000080888792139005421950000018091461854373464985_" x="446.5" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000132058070321573043240000016731422061419905933_">
+					<use xlink:href="#SVGID_00000080888792139005421950000018091461854373464985_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000132058070321573043240000016731422061419905933_);fill:none;" d="M446.5,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image53843e4e5b" xlink:href="3766CEB9.png"  transform="matrix(0.12 0 0 -0.12 446.4766 719.16)">
+		</image>
+		<g id="matplotlib.axis_20">
+			<g id="xtick_32">
+				<g id="line2d_32">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000132048454955049975850000002567581876590630047_" class="st5" d="M446.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_44">
+					<text transform="matrix(1 0 0 1 446.4842 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_33">
+				<g id="line2d_33">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000183246442416021632400000008317857187955439284_" class="st5" d="M478.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_45">
+					<text transform="matrix(1 0 0 1 472.6786 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_34">
+				<g id="line2d_34">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000135661678747509334450000013025627860894017462_" class="st5" d="M510,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_46">
+					<text transform="matrix(1 0 0 1 504.4336 732.3134)" class="st1 st2">0.8</text>
+				</g>
+			</g>
+			<g id="xtick_35">
+				<g id="line2d_35">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000067955185358844761920000009888186375038153624_" class="st5" d="M541.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_47">
+					<text transform="matrix(1 0 0 1 536.1885 732.3134)" class="st1 st2">1.2</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_5">
+		</g>
+		<g id="patch_66">
+			<path class="st3" d="M446.5,719.2v-4.5v-4.5h95.3v4.5v4.5H446.5z"/>
+		</g>
+	</g>
+	<g id="axes_16">
+		<g id="patch_67">
+			<path class="st0" d="M551.3,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image339d51d18d" xlink:href="3766CEBA.png"  transform="matrix(0.12 0 0 -0.12 551.2366 517.8)">
+		</image>
+		<g id="matplotlib.axis_21">
+		</g>
+		<g id="patch_68">
+			<path class="st3" d="M551.3,517.8V20.5"/>
+		</g>
+		<g id="patch_69">
+			<path class="st3" d="M646.5,517.8V20.5"/>
+		</g>
+		<g id="patch_70">
+			<path class="st3" d="M551.3,517.8h95.3"/>
+		</g>
+		<g id="patch_71">
+			<path class="st3" d="M551.3,20.5h95.3"/>
+		</g>
+		<g id="text_48">
+			<text transform="matrix(1 0 0 1 571.4227 14.4945)" class="st1 st4">nr2e3ko.chip</text>
+		</g>
+	</g>
+	<g id="axes_17">
+		<g id="patch_72">
+			<path class="st0" d="M551.3,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image5c076336ab" xlink:href="3766CEB8.png"  transform="matrix(0.12 0 0 -0.12 551.2366 665.52)">
+		</image>
+		<g id="matplotlib.axis_22">
+			<g id="xtick_36">
+				<g id="line2d_36">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000029746914693067074870000014879587260353920129_" class="st5" d="M551.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_49">
+					<text transform="matrix(1 0 0 1 551.3946 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_37">
+				<g id="line2d_37">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000149383137402731533550000014433201771729588658_" class="st5" d="M598.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_50">
+					<text transform="matrix(1 0 0 1 585.9001 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_38">
+				<g id="line2d_38">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000059273926820445437720000009007118230457396122_" class="st5" d="M646.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_51">
+					<text transform="matrix(1 0 0 1 625.515 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_52">
+				<text transform="matrix(1 0 0 1 564.9001 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_23">
+		</g>
+		<g id="patch_73">
+			<path class="st3" d="M551.3,665.6V522.1"/>
+		</g>
+		<g id="patch_74">
+			<path class="st3" d="M646.5,665.6V522.1"/>
+		</g>
+		<g id="patch_75">
+			<path class="st3" d="M551.3,665.6h95.3"/>
+		</g>
+		<g id="patch_76">
+			<path class="st3" d="M551.3,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_18">
+		<g id="patch_77">
+			<path class="st0" d="M551.3,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_78">
+			<g>
+				<defs>
+					<rect id="SVGID_00000129903993436334099290000017582187996360375733_" x="551.3" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000142881283616157170250000015439703329419182497_">
+					<use xlink:href="#SVGID_00000129903993436334099290000017582187996360375733_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000142881283616157170250000015439703329419182497_);fill:none;" d="M551.3,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image56743a3297" xlink:href="3766CEBE.png"  transform="matrix(0.12 0 0 -0.12 551.2366 719.16)">
+		</image>
+		<g id="matplotlib.axis_24">
+			<g id="xtick_39">
+				<g id="line2d_39">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000051341173062215883920000010721470584933988021_" class="st5" d="M551.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_53">
+					<text transform="matrix(1 0 0 1 551.2755 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_40">
+				<g id="line2d_40">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000023240219353798543020000008072980933460028847_" class="st5" d="M583,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_54">
+					<text transform="matrix(1 0 0 1 577.4699 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_41">
+				<g id="line2d_41">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000115504676829562034130000008750161123661695397_" class="st5" d="M614.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_55">
+					<text transform="matrix(1 0 0 1 609.2249 732.3134)" class="st1 st2">0.8</text>
+				</g>
+			</g>
+			<g id="xtick_42">
+				<g id="line2d_42">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000076582398271810053100000013081422918137932205_" class="st5" d="M646.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_56">
+					<text transform="matrix(1 0 0 1 640.9798 732.3134)" class="st1 st2">1.2</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_6">
+		</g>
+		<g id="patch_79">
+			<path class="st3" d="M551.3,719.2v-4.5v-4.5h95.3v4.5v4.5H551.3z"/>
+		</g>
+	</g>
+	<g id="axes_19">
+		<g id="patch_80">
+			<path class="st0" d="M656.1,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="imagee8a5a3da79" xlink:href="3766CEBB.png"  transform="matrix(0.12 0 0 -0.12 656.1166 517.8)">
+		</image>
+		<g id="matplotlib.axis_25">
+		</g>
+		<g id="patch_81">
+			<path class="st3" d="M656.1,517.8V20.5"/>
+		</g>
+		<g id="patch_82">
+			<path class="st3" d="M751.3,517.8V20.5"/>
+		</g>
+		<g id="patch_83">
+			<path class="st3" d="M656.1,517.8h95.3"/>
+		</g>
+		<g id="patch_84">
+			<path class="st3" d="M656.1,20.5h95.3"/>
+		</g>
+		<g id="text_57">
+			<text transform="matrix(1 0 0 1 688.493 14.4945)" class="st1 st4">wt.atac</text>
+		</g>
+	</g>
+	<g id="axes_20">
+		<g id="patch_85">
+			<path class="st0" d="M656.1,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imagef1530a7b9a" xlink:href="3766CEDD.png"  transform="matrix(0.12 0 0 -0.12 656.1166 665.52)">
+		</image>
+		<g id="matplotlib.axis_26">
+			<g id="xtick_43">
+				<g id="line2d_43">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000166662195219972987900000002497947860964370087_" class="st5" d="M656.2,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_58">
+					<text transform="matrix(1 0 0 1 656.1859 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_44">
+				<g id="line2d_44">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000074420334755402314600000000330792004425808551_" class="st5" d="M703.6,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_59">
+					<text transform="matrix(1 0 0 1 690.6915 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_45">
+				<g id="line2d_45">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000085211195448720250610000003567318564545107642_" class="st5" d="M751.2,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_60">
+					<text transform="matrix(1 0 0 1 730.3063 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_61">
+				<text transform="matrix(1 0 0 1 669.6914 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_27">
+		</g>
+		<g id="patch_86">
+			<path class="st3" d="M656.1,665.6V522.1"/>
+		</g>
+		<g id="patch_87">
+			<path class="st3" d="M751.3,665.6V522.1"/>
+		</g>
+		<g id="patch_88">
+			<path class="st3" d="M656.1,665.6h95.3"/>
+		</g>
+		<g id="patch_89">
+			<path class="st3" d="M656.1,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_21">
+		<g id="patch_90">
+			<path class="st0" d="M656.1,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_91">
+			<g>
+				<defs>
+					<rect id="SVGID_00000098928954612778286560000015187269606032935870_" x="656.1" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000146486942141386048770000001961227920798471343_">
+					<use xlink:href="#SVGID_00000098928954612778286560000015187269606032935870_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000146486942141386048770000001961227920798471343_);fill:none;" d="M656.1,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="793" height="75" id="image893555a8c6" xlink:href="3766CEDF.png"  transform="matrix(0.12 0 0 -0.12 656.1166 719.16)">
+		</image>
+		<g id="matplotlib.axis_28">
+			<g id="xtick_46">
+				<g id="line2d_46">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000088813693685654456480000014634152574982043574_" class="st5" d="M656.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_62">
+					<text transform="matrix(1 0 0 1 656.0668 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_47">
+				<g id="line2d_47">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000021830319773619508030000018437988002256858785_" class="st5" d="M687.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_63">
+					<text transform="matrix(1 0 0 1 682.2612 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_48">
+				<g id="line2d_48">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000012457130893401612400000002282259317049853575_" class="st5" d="M719.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_64">
+					<text transform="matrix(1 0 0 1 714.0161 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_49">
+				<g id="line2d_49">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000163778515991942921340000017522226171749649325_" class="st5" d="M751.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_65">
+					<text transform="matrix(1 0 0 1 745.7711 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_7">
+		</g>
+		<g id="patch_92">
+			<path class="st3" d="M656.1,719.2v-4.5v-4.5h95.3v4.5v4.5H656.1z"/>
+		</g>
+	</g>
+	<g id="axes_22">
+		<g id="patch_93">
+			<path class="st0" d="M760.9,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="imageaf8a38e9ee" xlink:href="3766CEDC.png"  transform="matrix(0.12 0 0 -0.12 760.8766 517.8)">
+		</image>
+		<g id="matplotlib.axis_29">
+		</g>
+		<g id="patch_94">
+			<path class="st3" d="M760.9,517.8V20.5"/>
+		</g>
+		<g id="patch_95">
+			<path class="st3" d="M856.1,517.8V20.5"/>
+		</g>
+		<g id="patch_96">
+			<path class="st3" d="M760.9,517.8h95.3"/>
+		</g>
+		<g id="patch_97">
+			<path class="st3" d="M760.9,20.5h95.3"/>
+		</g>
+		<g id="text_66">
+			<text transform="matrix(1 0 0 1 788.7421 14.4945)" class="st1 st4">ehet.atac</text>
+		</g>
+	</g>
+	<g id="axes_23">
+		<g id="patch_98">
+			<path class="st0" d="M760.9,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image481c3ef749" xlink:href="3766CEDB.png"  transform="matrix(0.12 0 0 -0.12 760.8766 665.52)">
+		</image>
+		<g id="matplotlib.axis_30">
+			<g id="xtick_50">
+				<g id="line2d_50">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000034057189626734973960000002601147626270519210_" class="st5" d="M761,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_67">
+					<text transform="matrix(1 0 0 1 760.9772 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_51">
+				<g id="line2d_51">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000096056033710628448240000005562418742816986043_" class="st5" d="M808.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_68">
+					<text transform="matrix(1 0 0 1 795.4827 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_52">
+				<g id="line2d_52">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000049907124023219806970000013627454426397127328_" class="st5" d="M856,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_69">
+					<text transform="matrix(1 0 0 1 835.0975 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_70">
+				<text transform="matrix(1 0 0 1 774.4827 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_31">
+		</g>
+		<g id="patch_99">
+			<path class="st3" d="M760.9,665.6V522.1"/>
+		</g>
+		<g id="patch_100">
+			<path class="st3" d="M856.1,665.6V522.1"/>
+		</g>
+		<g id="patch_101">
+			<path class="st3" d="M760.9,665.6h95.3"/>
+		</g>
+		<g id="patch_102">
+			<path class="st3" d="M760.9,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_24">
+		<g id="patch_103">
+			<path class="st0" d="M760.9,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_104">
+			<g>
+				<defs>
+					<rect id="SVGID_00000126309750053652742930000004842507784139953077_" x="760.9" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000109727391943517385710000016918362327016027032_">
+					<use xlink:href="#SVGID_00000126309750053652742930000004842507784139953077_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000109727391943517385710000016918362327016027032_);fill:none;" d="M760.9,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image537f667f47" xlink:href="3766CED5.png"  transform="matrix(0.12 0 0 -0.12 760.8766 719.16)">
+		</image>
+		<g id="matplotlib.axis_32">
+			<g id="xtick_53">
+				<g id="line2d_53">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000086681974999160248920000016662765803030993284_" class="st5" d="M760.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_71">
+					<text transform="matrix(1 0 0 1 760.8581 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_54">
+				<g id="line2d_54">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000081633432200805883460000016655945221079910544_" class="st5" d="M792.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_72">
+					<text transform="matrix(1 0 0 1 787.0525 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_55">
+				<g id="line2d_55">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000174583031888329294690000016465293175403598735_" class="st5" d="M824.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_73">
+					<text transform="matrix(1 0 0 1 818.8074 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_56">
+				<g id="line2d_56">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000008136101169351197750000015311695486073439925_" class="st5" d="M856.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_74">
+					<text transform="matrix(1 0 0 1 850.5623 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_8">
+		</g>
+		<g id="patch_105">
+			<path class="st3" d="M760.9,719.2v-4.5v-4.5h95.3v4.5v4.5H760.9z"/>
+		</g>
+	</g>
+	<g id="axes_25">
+		<g id="patch_106">
+			<path class="st0" d="M865.6,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image06e6ea2c57" xlink:href="3766CED7.png"  transform="matrix(0.12 0 0 -0.12 865.6366 517.8)">
+		</image>
+		<g id="matplotlib.axis_33">
+		</g>
+		<g id="patch_107">
+			<path class="st3" d="M865.6,517.8V20.5"/>
+		</g>
+		<g id="patch_108">
+			<path class="st3" d="M960.9,517.8V20.5"/>
+		</g>
+		<g id="patch_109">
+			<path class="st3" d="M865.6,517.8h95.3"/>
+		</g>
+		<g id="patch_110">
+			<path class="st3" d="M865.6,20.5h95.3"/>
+		</g>
+		<g id="text_75">
+			<text transform="matrix(1 0 0 1 890.8685 14.4945)" class="st1 st4">ehom.atac</text>
+		</g>
+	</g>
+	<g id="axes_26">
+		<g id="patch_111">
+			<path class="st0" d="M865.6,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image0f70687b00" xlink:href="3766CED4.png"  transform="matrix(0.12 0 0 -0.12 865.6366 665.52)">
+		</image>
+		<g id="matplotlib.axis_34">
+			<g id="xtick_57">
+				<g id="line2d_57">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000145052214285829493020000002696579843557522588_" class="st5" d="M865.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_76">
+					<text transform="matrix(1 0 0 1 865.7684 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_58">
+				<g id="line2d_58">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000015330485063915862410000011869444721656340647_" class="st5" d="M913.2,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_77">
+					<text transform="matrix(1 0 0 1 900.274 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_59">
+				<g id="line2d_59">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000071551670463251677160000014205858463646037668_" class="st5" d="M960.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_78">
+					<text transform="matrix(1 0 0 1 939.8889 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_79">
+				<text transform="matrix(1 0 0 1 879.2739 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_35">
+		</g>
+		<g id="patch_112">
+			<path class="st3" d="M865.6,665.6V522.1"/>
+		</g>
+		<g id="patch_113">
+			<path class="st3" d="M960.9,665.6V522.1"/>
+		</g>
+		<g id="patch_114">
+			<path class="st3" d="M865.6,665.6h95.3"/>
+		</g>
+		<g id="patch_115">
+			<path class="st3" d="M865.6,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_27">
+		<g id="patch_116">
+			<path class="st0" d="M865.6,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_117">
+			<g>
+				<defs>
+					<rect id="SVGID_00000069372496419649247810000006244962882052498312_" x="865.6" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000014619504621861284030000000996347047075911828_">
+					<use xlink:href="#SVGID_00000069372496419649247810000006244962882052498312_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000014619504621861284030000000996347047075911828_);fill:none;" d="M865.6,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="imagef3fecf73a4" xlink:href="3766CECB.png"  transform="matrix(0.12 0 0 -0.12 865.6366 719.16)">
+		</image>
+		<g id="matplotlib.axis_36">
+			<g id="xtick_60">
+				<g id="line2d_60">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000161609510409947797480000012112311836777492912_" class="st5" d="M865.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_80">
+					<text transform="matrix(1 0 0 1 865.6494 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_61">
+				<g id="line2d_61">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000095327607973627614600000012502928322380495772_" class="st5" d="M897.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_81">
+					<text transform="matrix(1 0 0 1 891.8438 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_62">
+				<g id="line2d_62">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000066476623626781179140000013221802897601481608_" class="st5" d="M929.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_82">
+					<text transform="matrix(1 0 0 1 923.5987 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_63">
+				<g id="line2d_63">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000010996757234343697540000015777319532249587349_" class="st5" d="M960.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_83">
+					<text transform="matrix(1 0 0 1 955.3536 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_9">
+		</g>
+		<g id="patch_118">
+			<path class="st3" d="M865.6,719.2v-4.5v-4.5h95.3v4.5v4.5H865.6z"/>
+		</g>
+	</g>
+	<g id="axes_28">
+		<g id="patch_119">
+			<path class="st0" d="M970.4,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="imagec142874f5f" xlink:href="3766CECD.png"  transform="matrix(0.12 0 0 -0.12 970.3966 517.8)">
+		</image>
+		<g id="matplotlib.axis_37">
+		</g>
+		<g id="patch_120">
+			<path class="st3" d="M970.4,517.8V20.5"/>
+		</g>
+		<g id="patch_121">
+			<path class="st3" d="M1065.7,517.8V20.5"/>
+		</g>
+		<g id="patch_122">
+			<path class="st3" d="M970.4,517.8h95.3"/>
+		</g>
+		<g id="patch_123">
+			<path class="st3" d="M970.4,20.5h95.3"/>
+		</g>
+		<g id="text_84">
+			<text transform="matrix(1 0 0 1 998.5942 14.4945)" class="st1 st4">khet.atac</text>
+		</g>
+	</g>
+	<g id="axes_29">
+		<g id="patch_124">
+			<path class="st0" d="M970.4,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image3130f3cfff" xlink:href="3766CECF.png"  transform="matrix(0.12 0 0 -0.12 970.3966 665.52)">
+		</image>
+		<g id="matplotlib.axis_38">
+			<g id="xtick_64">
+				<g id="line2d_64">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000133530177791891668240000000346313964731797157_" class="st5" d="M970.6,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_85">
+					<text transform="matrix(1 0 0 1 970.5598 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_65">
+				<g id="line2d_65">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000034087066935940791660000002356277442754217137_" class="st5" d="M1018,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_86">
+					<text transform="matrix(1 0 0 1 1005.0653 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_66">
+				<g id="line2d_66">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000109007955015768954240000015180348740845574073_" class="st5" d="M1065.6,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_87">
+					<text transform="matrix(1 0 0 1 1044.6802 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_88">
+				<text transform="matrix(1 0 0 1 984.0652 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_39">
+		</g>
+		<g id="patch_125">
+			<path class="st3" d="M970.4,665.6V522.1"/>
+		</g>
+		<g id="patch_126">
+			<path class="st3" d="M1065.7,665.6V522.1"/>
+		</g>
+		<g id="patch_127">
+			<path class="st3" d="M970.4,665.6h95.3"/>
+		</g>
+		<g id="patch_128">
+			<path class="st3" d="M970.4,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_30">
+		<g id="patch_129">
+			<path class="st0" d="M970.4,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_130">
+			<g>
+				<defs>
+					<rect id="SVGID_00000158717818763739854960000004489658605223991694_" x="970.4" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000091012863523507189750000016233727140113634440_">
+					<use xlink:href="#SVGID_00000158717818763739854960000004489658605223991694_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000091012863523507189750000016233727140113634440_);fill:none;" d="M970.4,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image5400d202a6" xlink:href="3766CEF0.png"  transform="matrix(0.12 0 0 -0.12 970.3966 719.16)">
+		</image>
+		<g id="matplotlib.axis_40">
+			<g id="xtick_67">
+				<g id="line2d_67">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000063624468083172346920000016184669826186517944_" class="st5" d="M970.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_89">
+					<text transform="matrix(1 0 0 1 970.4407 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_68">
+				<g id="line2d_68">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000065054427378529730980000008166867171193344185_" class="st5" d="M1002.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_90">
+					<text transform="matrix(1 0 0 1 996.635 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_69">
+				<g id="line2d_69">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000173129116492035232310000000637472154410568593_" class="st5" d="M1034,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_91">
+					<text transform="matrix(1 0 0 1 1028.39 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_70">
+				<g id="line2d_70">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000134231836416104856530000014423702183640534420_" class="st5" d="M1065.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_92">
+					<text transform="matrix(1 0 0 1 1060.1449 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_10">
+		</g>
+		<g id="patch_131">
+			<path class="st3" d="M970.4,719.2v-4.5v-4.5h95.3v4.5v4.5H970.4z"/>
+		</g>
+	</g>
+	<g id="axes_31">
+		<g id="patch_132">
+			<path class="st0" d="M1075.2,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image6b9caa7493" xlink:href="3766CECE.png"  transform="matrix(0.12 0 0 -0.12 1075.2766 517.8)">
+		</image>
+		<g id="matplotlib.axis_41">
+		</g>
+		<g id="patch_133">
+			<path class="st3" d="M1075.2,517.8V20.5"/>
+		</g>
+		<g id="patch_134">
+			<path class="st3" d="M1170.5,517.8V20.5"/>
+		</g>
+		<g id="patch_135">
+			<path class="st3" d="M1075.2,517.8h95.3"/>
+		</g>
+		<g id="patch_136">
+			<path class="st3" d="M1075.2,20.5h95.3"/>
+		</g>
+		<g id="text_93">
+			<text transform="matrix(1 0 0 1 1100.7206 14.4945)" class="st1 st4">khom.atac</text>
+		</g>
+	</g>
+	<g id="axes_32">
+		<g id="patch_137">
+			<path class="st0" d="M1075.2,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image6e430be22a" xlink:href="3766CED0.png"  transform="matrix(0.12 0 0 -0.12 1075.2766 665.52)">
+		</image>
+		<g id="matplotlib.axis_42">
+			<g id="xtick_71">
+				<g id="line2d_71">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000053544089876029197350000004669960946326124677_" class="st5" d="M1075.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_94">
+					<text transform="matrix(1 0 0 1 1075.3511 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_72">
+				<g id="line2d_72">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000140723844836409940220000005326110234751860906_" class="st5" d="M1122.7,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_95">
+					<text transform="matrix(1 0 0 1 1109.8566 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_73">
+				<g id="line2d_73">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000125579066967371789240000011025115988851495357_" class="st5" d="M1170.4,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_96">
+					<text transform="matrix(1 0 0 1 1149.4714 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_97">
+				<text transform="matrix(1 0 0 1 1088.8566 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_43">
+		</g>
+		<g id="patch_138">
+			<path class="st3" d="M1075.2,665.6V522.1"/>
+		</g>
+		<g id="patch_139">
+			<path class="st3" d="M1170.5,665.6V522.1"/>
+		</g>
+		<g id="patch_140">
+			<path class="st3" d="M1075.2,665.6h95.3"/>
+		</g>
+		<g id="patch_141">
+			<path class="st3" d="M1075.2,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_33">
+		<g id="patch_142">
+			<path class="st0" d="M1075.2,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_143">
+			<g>
+				<defs>
+					<rect id="SVGID_00000029768350840807165490000007584121685391160461_" x="1075.2" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000008845893962411430640000005920545500253332646_">
+					<use xlink:href="#SVGID_00000029768350840807165490000007584121685391160461_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000008845893962411430640000005920545500253332646_);fill:none;" d="M1075.2,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image7cee848e9c" xlink:href="3766CED3.png"  transform="matrix(0.12 0 0 -0.12 1075.2766 719.16)">
+		</image>
+		<g id="matplotlib.axis_44">
+			<g id="xtick_74">
+				<g id="line2d_74">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000149356742247307672170000012481720792762702733_" class="st5" d="M1075.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_98">
+					<text transform="matrix(1 0 0 1 1075.2319 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_75">
+				<g id="line2d_75">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000096028267416659194760000004346016434028891069_" class="st5" d="M1107,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_99">
+					<text transform="matrix(1 0 0 1 1101.4263 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_76">
+				<g id="line2d_76">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000085228213540016221050000009190814019922660539_" class="st5" d="M1138.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_100">
+					<text transform="matrix(1 0 0 1 1133.1813 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_77">
+				<g id="line2d_77">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000165223713675859781320000016410640763112393102_" class="st5" d="M1170.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_101">
+					<text transform="matrix(1 0 0 1 1164.9362 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_11">
+		</g>
+		<g id="patch_144">
+			<path class="st3" d="M1075.2,719.2v-4.5v-4.5h95.3v4.5v4.5H1075.2z"/>
+		</g>
+	</g>
+	<g id="axes_34">
+		<g id="patch_145">
+			<path class="st0" d="M1180,517.8h95.3V20.5H1180V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image817a5b72a1" xlink:href="3766CED1.png"  transform="matrix(0.12 0 0 -0.12 1180.0366 517.8)">
+		</image>
+		<g id="matplotlib.axis_45">
+		</g>
+		<g id="patch_146">
+			<path class="st3" d="M1180,517.8V20.5"/>
+		</g>
+		<g id="patch_147">
+			<path class="st3" d="M1275.3,517.8V20.5"/>
+		</g>
+		<g id="patch_148">
+			<path class="st3" d="M1180,517.8h95.3"/>
+		</g>
+		<g id="patch_149">
+			<path class="st3" d="M1180,20.5h95.3"/>
+		</g>
+		<g id="text_102">
+			<text transform="matrix(1 0 0 1 1206.3135 14.4945)" class="st1 st4">rhom.atac</text>
+		</g>
+	</g>
+	<g id="axes_35">
+		<g id="patch_150">
+			<path class="st0" d="M1180,665.6h95.3V522.1H1180V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image9c9b3fc793" xlink:href="3766CED6.png"  transform="matrix(0.12 0 0 -0.12 1180.0366 665.52)">
+		</image>
+		<g id="matplotlib.axis_46">
+			<g id="xtick_78">
+				<g id="line2d_78">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000013909568339085103430000013013258126417086890_" class="st5" d="M1180.1,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_103">
+					<text transform="matrix(1 0 0 1 1180.1423 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_79">
+				<g id="line2d_79">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000070812756724185700810000006276148316688907180_" class="st5" d="M1227.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_104">
+					<text transform="matrix(1 0 0 1 1214.6478 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_80">
+				<g id="line2d_80">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000000212126827305006850000009276820240100907682_" class="st5" d="M1275.2,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_105">
+					<text transform="matrix(1 0 0 1 1254.2627 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_106">
+				<text transform="matrix(1 0 0 1 1193.6478 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_47">
+		</g>
+		<g id="patch_151">
+			<path class="st3" d="M1180,665.6V522.1"/>
+		</g>
+		<g id="patch_152">
+			<path class="st3" d="M1275.3,665.6V522.1"/>
+		</g>
+		<g id="patch_153">
+			<path class="st3" d="M1180,665.6h95.3"/>
+		</g>
+		<g id="patch_154">
+			<path class="st3" d="M1180,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_36">
+		<g id="patch_155">
+			<path class="st0" d="M1180,719.2h95.3v-9H1180V719.2z"/>
+		</g>
+		<g id="patch_156">
+			<g>
+				<defs>
+					<rect id="SVGID_00000067938174763166677990000001597497018993541053_" x="1180" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000021092830746669152480000009615325441723530897_">
+					<use xlink:href="#SVGID_00000067938174763166677990000001597497018993541053_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000021092830746669152480000009615325441723530897_);fill:none;" d="M1180,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="imagefe1798cf40" xlink:href="3766CED2.png"  transform="matrix(0.12 0 0 -0.12 1180.0366 719.16)">
+		</image>
+		<g id="matplotlib.axis_48">
+			<g id="xtick_81">
+				<g id="line2d_81">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000089558686123294861580000014658535169722817184_" class="st5" d="M1180,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_107">
+					<text transform="matrix(1 0 0 1 1180.0232 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_82">
+				<g id="line2d_82">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000046302781977524565230000009091397745150987194_" class="st5" d="M1211.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_108">
+					<text transform="matrix(1 0 0 1 1206.2177 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_83">
+				<g id="line2d_83">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000078021477453994424710000013480350379726101123_" class="st5" d="M1243.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_109">
+					<text transform="matrix(1 0 0 1 1237.9725 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_84">
+				<g id="line2d_84">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000087405522939378016500000013445173404201154210_" class="st5" d="M1275.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_110">
+					<text transform="matrix(1 0 0 1 1269.7274 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_12">
+		</g>
+		<g id="patch_157">
+			<path class="st3" d="M1180,719.2v-4.5v-4.5h95.3v4.5v4.5H1180z"/>
+		</g>
+	</g>
+	<g id="axes_37">
+		<g id="patch_158">
+			<path class="st0" d="M1284.8,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="imagef1e537ca39" xlink:href="3766CEDE.png"  transform="matrix(0.12 0 0 -0.12 1284.7966 517.8)">
+		</image>
+		<g id="matplotlib.axis_49">
+		</g>
+		<g id="patch_159">
+			<path class="st3" d="M1284.8,517.8V20.5"/>
+		</g>
+		<g id="patch_160">
+			<path class="st3" d="M1380.1,517.8V20.5"/>
+		</g>
+		<g id="patch_161">
+			<path class="st3" d="M1284.8,517.8h95.3"/>
+		</g>
+		<g id="patch_162">
+			<path class="st3" d="M1284.8,20.5h95.3"/>
+		</g>
+		<g id="text_111">
+			<text transform="matrix(1 0 0 1 1308.9648 14.4945)" class="st1 st4">e14.5.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_38">
+		<g id="patch_163">
+			<path class="st0" d="M1284.8,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imageac567d92a9" xlink:href="3766CEDA.png"  transform="matrix(0.12 0 0 -0.12 1284.7966 665.52)">
+		</image>
+		<g id="matplotlib.axis_50">
+			<g id="xtick_85">
+				<g id="line2d_85">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000179643884405206326710000012824272462686232465_" class="st5" d="M1284.9,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_112">
+					<text transform="matrix(1 0 0 1 1284.9336 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_86">
+				<g id="line2d_86">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000057828286575558825740000012714764709278172324_" class="st5" d="M1332.3,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_113">
+					<text transform="matrix(1 0 0 1 1319.4392 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_87">
+				<g id="line2d_87">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000173128637842888412750000007625174658376065470_" class="st5" d="M1380,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_114">
+					<text transform="matrix(1 0 0 1 1359.054 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_115">
+				<text transform="matrix(1 0 0 1 1298.4391 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_51">
+		</g>
+		<g id="patch_164">
+			<path class="st3" d="M1284.8,665.6V522.1"/>
+		</g>
+		<g id="patch_165">
+			<path class="st3" d="M1380.1,665.6V522.1"/>
+		</g>
+		<g id="patch_166">
+			<path class="st3" d="M1284.8,665.6h95.3"/>
+		</g>
+		<g id="patch_167">
+			<path class="st3" d="M1284.8,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_39">
+		<g id="patch_168">
+			<path class="st0" d="M1284.8,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_169">
+			<g>
+				<defs>
+					<rect id="SVGID_00000047035275026004858910000012319514477974725548_" x="1284.8" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000107557836126968594290000014489897093819952011_">
+					<use xlink:href="#SVGID_00000047035275026004858910000012319514477974725548_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000107557836126968594290000014489897093819952011_);fill:none;" d="M1284.8,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image2bc0ac4432" xlink:href="3766CED9.png"  transform="matrix(0.12 0 0 -0.12 1284.7966 719.16)">
+		</image>
+		<g id="matplotlib.axis_52">
+			<g id="xtick_88">
+				<g id="line2d_88">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000168814021902613216130000016566421440799765669_" class="st5" d="M1284.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_116">
+					<text transform="matrix(1 0 0 1 1284.8145 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_89">
+				<g id="line2d_89">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000099653857353898643010000014537917209130524349_" class="st5" d="M1316.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_117">
+					<text transform="matrix(1 0 0 1 1311.0089 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_90">
+				<g id="line2d_90">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000053514084055817445970000011124902823116219285_" class="st5" d="M1348.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_118">
+					<text transform="matrix(1 0 0 1 1342.7638 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_91">
+				<g id="line2d_91">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000163770735572342401340000000644434275051135642_" class="st5" d="M1380.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_119">
+					<text transform="matrix(1 0 0 1 1374.5188 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_13">
+		</g>
+		<g id="patch_170">
+			<path class="st3" d="M1284.8,719.2v-4.5v-4.5h95.3v4.5v4.5H1284.8z"/>
+		</g>
+	</g>
+	<g id="axes_40">
+		<g id="patch_171">
+			<path class="st0" d="M1389.6,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image0b22a1097b" xlink:href="3766CF3B.png"  transform="matrix(0.12 0 0 -0.12 1389.5566 517.8)">
+		</image>
+		<g id="matplotlib.axis_53">
+		</g>
+		<g id="patch_172">
+			<path class="st3" d="M1389.6,517.8V20.5"/>
+		</g>
+		<g id="patch_173">
+			<path class="st3" d="M1484.9,517.8V20.5"/>
+		</g>
+		<g id="patch_174">
+			<path class="st3" d="M1389.6,517.8h95.3"/>
+		</g>
+		<g id="patch_175">
+			<path class="st3" d="M1389.6,20.5h95.3"/>
+		</g>
+		<g id="text_120">
+			<text transform="matrix(1 0 0 1 1413.7561 14.4945)" class="st1 st4">e17.5.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_41">
+		<g id="patch_176">
+			<path class="st0" d="M1389.6,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image9b445ce0b3" xlink:href="3766CF3D.png"  transform="matrix(0.12 0 0 -0.12 1389.5566 665.52)">
+		</image>
+		<g id="matplotlib.axis_54">
+			<g id="xtick_92">
+				<g id="line2d_92">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000016043663841415348770000010204706698875789724_" class="st5" d="M1389.7,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_121">
+					<text transform="matrix(1 0 0 1 1389.7249 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_93">
+				<g id="line2d_93">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000013891443930018765750000007977432216149664931_" class="st5" d="M1437.1,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_122">
+					<text transform="matrix(1 0 0 1 1424.2305 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_94">
+				<g id="line2d_94">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000089569412613347052680000007052976679921479072_" class="st5" d="M1484.8,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_123">
+					<text transform="matrix(1 0 0 1 1463.8452 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_124">
+				<text transform="matrix(1 0 0 1 1403.2303 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_55">
+		</g>
+		<g id="patch_177">
+			<path class="st3" d="M1389.6,665.6V522.1"/>
+		</g>
+		<g id="patch_178">
+			<path class="st3" d="M1484.9,665.6V522.1"/>
+		</g>
+		<g id="patch_179">
+			<path class="st3" d="M1389.6,665.6h95.3"/>
+		</g>
+		<g id="patch_180">
+			<path class="st3" d="M1389.6,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_42">
+		<g id="patch_181">
+			<path class="st0" d="M1389.6,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_182">
+			<g>
+				<defs>
+					<rect id="SVGID_00000013174837873125868560000008521978632269353384_" x="1389.6" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000163040758882304026120000000074446009723707052_">
+					<use xlink:href="#SVGID_00000013174837873125868560000008521978632269353384_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000163040758882304026120000000074446009723707052_);fill:none;" d="M1389.6,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image7ddbc39b9d" xlink:href="3766CF3F.png"  transform="matrix(0.12 0 0 -0.12 1389.5566 719.16)">
+		</image>
+		<g id="matplotlib.axis_56">
+			<g id="xtick_95">
+				<g id="line2d_95">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000029033775701127727750000006146943912157297286_" class="st5" d="M1389.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_125">
+					<text transform="matrix(1 0 0 1 1389.6058 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_96">
+				<g id="line2d_96">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000026859504386201839850000001655949326725834923_" class="st5" d="M1421.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_126">
+					<text transform="matrix(1 0 0 1 1415.8002 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_97">
+				<g id="line2d_97">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000160186866917879673950000016405789542455311499_" class="st5" d="M1453.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_127">
+					<text transform="matrix(1 0 0 1 1447.5551 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_98">
+				<g id="line2d_98">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000156577756483134651130000011233805830034178490_" class="st5" d="M1484.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_128">
+					<text transform="matrix(1 0 0 1 1479.3101 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_14">
+		</g>
+		<g id="patch_183">
+			<path class="st3" d="M1389.6,719.2v-4.5v-4.5h95.3v4.5v4.5H1389.6z"/>
+		</g>
+	</g>
+	<g id="axes_43">
+		<g id="patch_184">
+			<path class="st0" d="M1494.4,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image6199c34c8d" xlink:href="3766CF3A.png"  transform="matrix(0.12 0 0 -0.12 1494.4366 517.8)">
+		</image>
+		<g id="matplotlib.axis_57">
+		</g>
+		<g id="patch_185">
+			<path class="st3" d="M1494.4,517.8V20.5"/>
+		</g>
+		<g id="patch_186">
+			<path class="st3" d="M1589.7,517.8V20.5"/>
+		</g>
+		<g id="patch_187">
+			<path class="st3" d="M1494.4,517.8h95.3"/>
+		</g>
+		<g id="patch_188">
+			<path class="st3" d="M1494.4,20.5h95.3"/>
+		</g>
+		<g id="text_129">
+			<text transform="matrix(1 0 0 1 1525.2201 14.4945)" class="st1 st4">p0.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_44">
+		<g id="patch_189">
+			<path class="st0" d="M1494.4,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image842cf76e43" xlink:href="3766CF39.png"  transform="matrix(0.12 0 0 -0.12 1494.4366 665.52)">
+		</image>
+		<g id="matplotlib.axis_58">
+			<g id="xtick_99">
+				<g id="line2d_99">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000091697026492839634350000005854875684392865705_" class="st5" d="M1494.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_130">
+					<text transform="matrix(1 0 0 1 1494.5161 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_100">
+				<g id="line2d_100">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000060031831084614885450000012724738681518541994_" class="st5" d="M1541.9,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_131">
+					<text transform="matrix(1 0 0 1 1529.0217 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_101">
+				<g id="line2d_101">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000010305612541910733930000015641665118261519019_" class="st5" d="M1589.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_132">
+					<text transform="matrix(1 0 0 1 1568.6366 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_133">
+				<text transform="matrix(1 0 0 1 1508.0216 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_59">
+		</g>
+		<g id="patch_190">
+			<path class="st3" d="M1494.4,665.6V522.1"/>
+		</g>
+		<g id="patch_191">
+			<path class="st3" d="M1589.7,665.6V522.1"/>
+		</g>
+		<g id="patch_192">
+			<path class="st3" d="M1494.4,665.6h95.3"/>
+		</g>
+		<g id="patch_193">
+			<path class="st3" d="M1494.4,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_45">
+		<g id="patch_194">
+			<path class="st0" d="M1494.4,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_195">
+			<g>
+				<defs>
+					<rect id="SVGID_00000071527375084743392320000003430145042360612784_" x="1494.4" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000142861499317498647260000012556677625141791919_">
+					<use xlink:href="#SVGID_00000071527375084743392320000003430145042360612784_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000142861499317498647260000012556677625141791919_);fill:none;" d="M1494.4,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image2e892159b2" xlink:href="3766CF35.png"  transform="matrix(0.12 0 0 -0.12 1494.4366 719.16)">
+		</image>
+		<g id="matplotlib.axis_60">
+			<g id="xtick_102">
+				<g id="line2d_102">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000083793721825474672430000008940774596133612689_" class="st5" d="M1494.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_134">
+					<text transform="matrix(1 0 0 1 1494.3971 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_103">
+				<g id="line2d_103">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000084530790340155463010000018413234813080789408_" class="st5" d="M1526.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_135">
+					<text transform="matrix(1 0 0 1 1520.5914 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_104">
+				<g id="line2d_104">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000056401707512535013940000015060649088881297046_" class="st5" d="M1557.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_136">
+					<text transform="matrix(1 0 0 1 1552.3464 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_105">
+				<g id="line2d_105">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000141448673965770706700000016961715506828012685_" class="st5" d="M1589.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_137">
+					<text transform="matrix(1 0 0 1 1584.1013 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_15">
+		</g>
+		<g id="patch_196">
+			<path class="st3" d="M1494.4,719.2v-4.5v-4.5h95.3v4.5v4.5H1494.4z"/>
+		</g>
+	</g>
+	<g id="axes_46">
+		<g id="patch_197">
+			<path class="st0" d="M1599.2,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image7173d60f95" xlink:href="3766CF37.png"  transform="matrix(0.12 0 0 -0.12 1599.1965 517.8)">
+		</image>
+		<g id="matplotlib.axis_61">
+		</g>
+		<g id="patch_198">
+			<path class="st3" d="M1599.2,517.8V20.5"/>
+		</g>
+		<g id="patch_199">
+			<path class="st3" d="M1694.5,517.8V20.5"/>
+		</g>
+		<g id="patch_200">
+			<path class="st3" d="M1599.2,517.8h95.3"/>
+		</g>
+		<g id="patch_201">
+			<path class="st3" d="M1599.2,20.5h95.3"/>
+		</g>
+		<g id="text_138">
+			<text transform="matrix(1 0 0 1 1630.0115 14.4945)" class="st1 st4">p3.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_47">
+		<g id="patch_202">
+			<path class="st0" d="M1599.2,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imagec28a696350" xlink:href="3766CF2A.png"  transform="matrix(0.12 0 0 -0.12 1599.1965 665.52)">
+		</image>
+		<g id="matplotlib.axis_62">
+			<g id="xtick_106">
+				<g id="line2d_106">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000162320602208486019550000017463021000172007607_" class="st5" d="M1599.3,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_139">
+					<text transform="matrix(1 0 0 1 1599.3075 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_107">
+				<g id="line2d_107">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000114061844074173494790000003786152898129204880_" class="st5" d="M1646.7,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_140">
+					<text transform="matrix(1 0 0 1 1633.813 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_108">
+				<g id="line2d_108">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000110463813497443607930000000532841677878899626_" class="st5" d="M1694.3,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_141">
+					<text transform="matrix(1 0 0 1 1673.4279 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_142">
+				<text transform="matrix(1 0 0 1 1612.813 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_63">
+		</g>
+		<g id="patch_203">
+			<path class="st3" d="M1599.2,665.6V522.1"/>
+		</g>
+		<g id="patch_204">
+			<path class="st3" d="M1694.5,665.6V522.1"/>
+		</g>
+		<g id="patch_205">
+			<path class="st3" d="M1599.2,665.6h95.3"/>
+		</g>
+		<g id="patch_206">
+			<path class="st3" d="M1599.2,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_48">
+		<g id="patch_207">
+			<path class="st0" d="M1599.2,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_208">
+			<g>
+				<defs>
+					<rect id="SVGID_00000178185751184079617580000008792254467326005402_" x="1599.2" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000157296613282102488520000000025815270320156852_">
+					<use xlink:href="#SVGID_00000178185751184079617580000008792254467326005402_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000157296613282102488520000000025815270320156852_);fill:none;" d="M1599.2,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="imagea5580aded8" xlink:href="3766CF2B.png"  transform="matrix(0.12 0 0 -0.12 1599.1965 719.16)">
+		</image>
+		<g id="matplotlib.axis_64">
+			<g id="xtick_109">
+				<g id="line2d_109">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000047054656600042384070000002236185776631903400_" class="st5" d="M1599.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_143">
+					<text transform="matrix(1 0 0 1 1599.1884 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_110">
+				<g id="line2d_110">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000098910102183449875140000002509146936031864749_" class="st5" d="M1630.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_144">
+					<text transform="matrix(1 0 0 1 1625.3827 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_111">
+				<g id="line2d_111">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000031180499869875973450000012786803197948989604_" class="st5" d="M1662.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_145">
+					<text transform="matrix(1 0 0 1 1657.1377 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_112">
+				<g id="line2d_112">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000000189037585444247250000013366051214712023177_" class="st5" d="M1694.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_146">
+					<text transform="matrix(1 0 0 1 1688.8926 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_16">
+		</g>
+		<g id="patch_209">
+			<path class="st3" d="M1599.2,719.2v-4.5v-4.5h95.3v4.5v4.5H1599.2z"/>
+		</g>
+	</g>
+	<g id="axes_49">
+		<g id="patch_210">
+			<path class="st0" d="M1704,517.8h95.3V20.5H1704V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image56b9e28d09" xlink:href="3766CF2D.png"  transform="matrix(0.12 0 0 -0.12 1703.9565 517.8)">
+		</image>
+		<g id="matplotlib.axis_65">
+		</g>
+		<g id="patch_211">
+			<path class="st3" d="M1704,517.8V20.5"/>
+		</g>
+		<g id="patch_212">
+			<path class="st3" d="M1799.2,517.8V20.5"/>
+		</g>
+		<g id="patch_213">
+			<path class="st3" d="M1704,517.8h95.3"/>
+		</g>
+		<g id="patch_214">
+			<path class="st3" d="M1704,20.5h95.3"/>
+		</g>
+		<g id="text_147">
+			<text transform="matrix(1 0 0 1 1734.8027 14.4945)" class="st1 st4">p7.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_50">
+		<g id="patch_215">
+			<path class="st0" d="M1704,665.6h95.3V522.1H1704V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imagef16267da2e" xlink:href="3766CF0A.png"  transform="matrix(0.12 0 0 -0.12 1703.9565 665.52)">
+		</image>
+		<g id="matplotlib.axis_66">
+			<g id="xtick_113">
+				<g id="line2d_113">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000131335641935473944920000008974850330035843733_" class="st5" d="M1704.1,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_148">
+					<text transform="matrix(1 0 0 1 1704.0988 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_114">
+				<g id="line2d_114">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000016768127342738648260000005475059604686163124_" class="st5" d="M1751.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_149">
+					<text transform="matrix(1 0 0 1 1738.6042 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_115">
+				<g id="line2d_115">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000062181722191354579630000016688182938262561444_" class="st5" d="M1799.1,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_150">
+					<text transform="matrix(1 0 0 1 1778.2191 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_151">
+				<text transform="matrix(1 0 0 1 1717.6042 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_67">
+		</g>
+		<g id="patch_216">
+			<path class="st3" d="M1704,665.6V522.1"/>
+		</g>
+		<g id="patch_217">
+			<path class="st3" d="M1799.2,665.6V522.1"/>
+		</g>
+		<g id="patch_218">
+			<path class="st3" d="M1704,665.6h95.3"/>
+		</g>
+		<g id="patch_219">
+			<path class="st3" d="M1704,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_51">
+		<g id="patch_220">
+			<path class="st0" d="M1704,719.2h95.3v-9H1704V719.2z"/>
+		</g>
+		<g id="patch_221">
+			<g>
+				<defs>
+					<rect id="SVGID_00000023987412632523735300000008700504621012210332_" x="1704" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000173875386710424492850000001359785398257814968_">
+					<use xlink:href="#SVGID_00000023987412632523735300000008700504621012210332_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000173875386710424492850000001359785398257814968_);fill:none;" d="M1704,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="imageb26eb4b174" xlink:href="3766CF0D.png"  transform="matrix(0.12 0 0 -0.12 1703.9565 719.16)">
+		</image>
+		<g id="matplotlib.axis_68">
+			<g id="xtick_116">
+				<g id="line2d_116">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000116945033473817967460000013721757637448858014_" class="st5" d="M1704,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_152">
+					<text transform="matrix(1 0 0 1 1703.9796 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_117">
+				<g id="line2d_117">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000181774619976090756910000016304867605826798213_" class="st5" d="M1735.7,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_153">
+					<text transform="matrix(1 0 0 1 1730.1741 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_118">
+				<g id="line2d_118">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000122678082355655919580000007010543368458447002_" class="st5" d="M1767.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_154">
+					<text transform="matrix(1 0 0 1 1761.929 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_119">
+				<g id="line2d_119">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000091720899591532875590000005550383841446004359_" class="st5" d="M1799.2,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_155">
+					<text transform="matrix(1 0 0 1 1793.684 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_17">
+		</g>
+		<g id="patch_222">
+			<path class="st3" d="M1704,719.2v-4.5v-4.5h95.3v4.5v4.5H1704z"/>
+		</g>
+	</g>
+	<g id="axes_52">
+		<g id="patch_223">
+			<path class="st0" d="M1808.8,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image8161ea4f71" xlink:href="3766CF0E.png"  transform="matrix(0.12 0 0 -0.12 1808.7166 517.8)">
+		</image>
+		<g id="matplotlib.axis_69">
+		</g>
+		<g id="patch_224">
+			<path class="st3" d="M1808.8,517.8V20.5"/>
+		</g>
+		<g id="patch_225">
+			<path class="st3" d="M1904,517.8V20.5"/>
+		</g>
+		<g id="patch_226">
+			<path class="st3" d="M1808.8,517.8h95.3"/>
+		</g>
+		<g id="patch_227">
+			<path class="st3" d="M1808.8,20.5h95.3"/>
+		</g>
+		<g id="text_156">
+			<text transform="matrix(1 0 0 1 1836.9244 14.4945)" class="st1 st4">p10.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_53">
+		<g id="patch_228">
+			<path class="st0" d="M1808.8,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image76dd64d9ee" xlink:href="3766CF0C.png"  transform="matrix(0.12 0 0 -0.12 1808.7166 665.52)">
+		</image>
+		<g id="matplotlib.axis_70">
+			<g id="xtick_120">
+				<g id="line2d_120">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000179615033085475646310000005029754060789040052_" class="st5" d="M1808.9,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_157">
+					<text transform="matrix(1 0 0 1 1808.89 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_121">
+				<g id="line2d_121">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000031892967927732798440000009047057420624795532_" class="st5" d="M1856.3,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_158">
+					<text transform="matrix(1 0 0 1 1843.3956 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_122">
+				<g id="line2d_122">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000054229376673558766420000007503876700852311168_" class="st5" d="M1903.9,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_159">
+					<text transform="matrix(1 0 0 1 1883.0104 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_160">
+				<text transform="matrix(1 0 0 1 1822.3955 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_71">
+		</g>
+		<g id="patch_229">
+			<path class="st3" d="M1808.8,665.6V522.1"/>
+		</g>
+		<g id="patch_230">
+			<path class="st3" d="M1904,665.6V522.1"/>
+		</g>
+		<g id="patch_231">
+			<path class="st3" d="M1808.8,665.6h95.3"/>
+		</g>
+		<g id="patch_232">
+			<path class="st3" d="M1808.8,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_54">
+		<g id="patch_233">
+			<path class="st0" d="M1808.8,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_234">
+			<g>
+				<defs>
+					<rect id="SVGID_00000079485218454840176800000006368530757222366637_" x="1808.8" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000029724971995944784770000001152451807682845596_">
+					<use xlink:href="#SVGID_00000079485218454840176800000006368530757222366637_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000029724971995944784770000001152451807682845596_);fill:none;" d="M1808.8,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image2aedc90abe" xlink:href="3766CF0B.png"  transform="matrix(0.12 0 0 -0.12 1808.7166 719.16)">
+		</image>
+		<g id="matplotlib.axis_72">
+			<g id="xtick_123">
+				<g id="line2d_123">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000107562875484609288900000000059201381945931656_" class="st5" d="M1808.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_161">
+					<text transform="matrix(1 0 0 1 1808.7709 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_124">
+				<g id="line2d_124">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000151515144556267541480000003734232172834034065_" class="st5" d="M1840.5,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_162">
+					<text transform="matrix(1 0 0 1 1834.9653 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_125">
+				<g id="line2d_125">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000173877205785910018000000018116348264287104949_" class="st5" d="M1872.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_163">
+					<text transform="matrix(1 0 0 1 1866.7202 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_126">
+				<g id="line2d_126">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000090288324868191698430000014658825072704245164_" class="st5" d="M1904,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_164">
+					<text transform="matrix(1 0 0 1 1898.4752 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_18">
+		</g>
+		<g id="patch_235">
+			<path class="st3" d="M1808.8,719.2v-4.5v-4.5h95.3v4.5v4.5H1808.8z"/>
+		</g>
+	</g>
+	<g id="axes_55">
+		<g id="patch_236">
+			<path class="st0" d="M1913.6,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="image563bab2e60" xlink:href="3766CF05.png"  transform="matrix(0.12 0 0 -0.12 1913.5966 517.8)">
+		</image>
+		<g id="matplotlib.axis_73">
+		</g>
+		<g id="patch_237">
+			<path class="st3" d="M1913.6,517.8V20.5"/>
+		</g>
+		<g id="patch_238">
+			<path class="st3" d="M2008.8,517.8V20.5"/>
+		</g>
+		<g id="patch_239">
+			<path class="st3" d="M1913.6,517.8h95.3"/>
+		</g>
+		<g id="patch_240">
+			<path class="st3" d="M1913.6,20.5h95.3"/>
+		</g>
+		<g id="text_165">
+			<text transform="matrix(1 0 0 1 1941.7157 14.4945)" class="st1 st4">p14.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_56">
+		<g id="patch_241">
+			<path class="st0" d="M1913.6,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="imaged89a8920c4" xlink:href="3766CF06.png"  transform="matrix(0.12 0 0 -0.12 1913.5966 665.52)">
+		</image>
+		<g id="matplotlib.axis_74">
+			<g id="xtick_127">
+				<g id="line2d_127">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000098917990791895033720000017711257792009173639_" class="st5" d="M1913.7,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_166">
+					<text transform="matrix(1 0 0 1 1913.6813 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_128">
+				<g id="line2d_128">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000093893771682211841150000000851090069652855198_" class="st5" d="M1961.1,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_167">
+					<text transform="matrix(1 0 0 1 1948.1869 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_129">
+				<g id="line2d_129">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000094600264824795074730000017874148118620414083_" class="st5" d="M2008.7,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_168">
+					<text transform="matrix(1 0 0 1 1987.8016 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_169">
+				<text transform="matrix(1 0 0 1 1927.1868 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_75">
+		</g>
+		<g id="patch_242">
+			<path class="st3" d="M1913.6,665.6V522.1"/>
+		</g>
+		<g id="patch_243">
+			<path class="st3" d="M2008.8,665.6V522.1"/>
+		</g>
+		<g id="patch_244">
+			<path class="st3" d="M1913.6,665.6h95.3"/>
+		</g>
+		<g id="patch_245">
+			<path class="st3" d="M1913.6,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_57">
+		<g id="patch_246">
+			<path class="st0" d="M1913.6,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_247">
+			<g>
+				<defs>
+					<rect id="SVGID_00000004516824248510327140000001571866702387289231_" x="1913.6" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000055681691688577659630000011929746922124344454_">
+					<use xlink:href="#SVGID_00000004516824248510327140000001571866702387289231_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000055681691688577659630000011929746922124344454_);fill:none;" d="M1913.6,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image53c7415167" xlink:href="3766CF04.png"  transform="matrix(0.12 0 0 -0.12 1913.5966 719.16)">
+		</image>
+		<g id="matplotlib.axis_76">
+			<g id="xtick_130">
+				<g id="line2d_130">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000016770595153917738720000013197096132431254935_" class="st5" d="M1913.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_170">
+					<text transform="matrix(1 0 0 1 1913.5623 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_131">
+				<g id="line2d_131">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000165229967314971267160000008752240876660370613_" class="st5" d="M1945.3,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_171">
+					<text transform="matrix(1 0 0 1 1939.7566 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_132">
+				<g id="line2d_132">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000036953494911969159560000002555587948881243044_" class="st5" d="M1977.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_172">
+					<text transform="matrix(1 0 0 1 1971.5115 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_133">
+				<g id="line2d_133">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000003815257664564175870000000280095769275740577_" class="st5" d="M2008.8,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_173">
+					<text transform="matrix(1 0 0 1 2003.2665 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_19">
+		</g>
+		<g id="patch_248">
+			<path class="st3" d="M1913.6,719.2v-4.5v-4.5h95.3v4.5v4.5H1913.6z"/>
+		</g>
+	</g>
+	<g id="axes_58">
+		<g id="patch_249">
+			<path class="st0" d="M2018.4,517.8h95.3V20.5h-95.3V517.8z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="4145" id="imagec58db4a964" xlink:href="3766CF7A.png"  transform="matrix(0.12 0 0 -0.12 2018.3566 517.8)">
+		</image>
+		<g id="matplotlib.axis_77">
+		</g>
+		<g id="patch_250">
+			<path class="st3" d="M2018.4,517.8V20.5"/>
+		</g>
+		<g id="patch_251">
+			<path class="st3" d="M2113.6,517.8V20.5"/>
+		</g>
+		<g id="patch_252">
+			<path class="st3" d="M2018.4,517.8h95.3"/>
+		</g>
+		<g id="patch_253">
+			<path class="st3" d="M2018.4,20.5h95.3"/>
+		</g>
+		<g id="text_174">
+			<text transform="matrix(1 0 0 1 2046.5071 14.4945)" class="st1 st4">p21.aldiri</text>
+		</g>
+	</g>
+	<g id="axes_59">
+		<g id="patch_254">
+			<path class="st0" d="M2018.4,665.6h95.3V522.1h-95.3V665.6z"/>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="1195" id="image584b6462e2" xlink:href="3766CF7D.png"  transform="matrix(0.12 0 0 -0.12 2018.3566 665.52)">
+		</image>
+		<g id="matplotlib.axis_78">
+			<g id="xtick_134">
+				<g id="line2d_134">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000002381795567569025520000011763027591613511611_" class="st5" d="M2018.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_175">
+					<text transform="matrix(1 0 0 1 2018.4725 678.6874)" class="st1 st2">-2.0</text>
+				</g>
+			</g>
+			<g id="xtick_135">
+				<g id="line2d_135">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000142897832565751066560000006382424132615480752_" class="st5" d="M2065.9,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_176">
+					<text transform="matrix(1 0 0 1 2052.978 678.6874)" class="st1 st2">summit</text>
+				</g>
+			</g>
+			<g id="xtick_136">
+				<g id="line2d_136">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000076579910130539280230000002089470659064461499_" class="st5" d="M2113.5,665.6v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_177">
+					<text transform="matrix(1 0 0 1 2092.5928 678.6874)" class="st1 st2">2.0Kb</text>
+				</g>
+			</g>
+			<g id="text_178">
+				<text transform="matrix(1 0 0 1 2031.9781 690.4299)" class="st1 st2">dist. to summit (bp)</text>
+			</g>
+		</g>
+		<g id="matplotlib.axis_79">
+		</g>
+		<g id="patch_255">
+			<path class="st3" d="M2018.4,665.6V522.1"/>
+		</g>
+		<g id="patch_256">
+			<path class="st3" d="M2113.6,665.6V522.1"/>
+		</g>
+		<g id="patch_257">
+			<path class="st3" d="M2018.4,665.6h95.3"/>
+		</g>
+		<g id="patch_258">
+			<path class="st3" d="M2018.4,522.1h95.3"/>
+		</g>
+	</g>
+	<g id="axes_60">
+		<g id="patch_259">
+			<path class="st0" d="M2018.4,719.2h95.3v-9h-95.3V719.2z"/>
+		</g>
+		<g id="patch_260">
+			<g>
+				<defs>
+					<rect id="SVGID_00000044137671515707730160000004846811298801237916_" x="2018.4" y="710.2" width="95.3" height="9"/>
+				</defs>
+				<clipPath id="SVGID_00000016072489343511114480000005110611680078603396_">
+					<use xlink:href="#SVGID_00000044137671515707730160000004846811298801237916_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_00000016072489343511114480000005110611680078603396_);fill:none;" d="M2018.4,719.2"/>
+			</g>
+		</g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="794" height="75" id="image1d30c3287c" xlink:href="3766CF61.png"  transform="matrix(0.12 0 0 -0.12 2018.3566 719.16)">
+		</image>
+		<g id="matplotlib.axis_80">
+			<g id="xtick_137">
+				<g id="line2d_137">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000170992458402127036380000008926736373722042559_" class="st5" d="M2018.4,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_179">
+					<text transform="matrix(1 0 0 1 2018.3535 732.3134)" class="st1 st2">0.0</text>
+				</g>
+			</g>
+			<g id="xtick_138">
+				<g id="line2d_138">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000143583670488677450600000011797128838134993045_" class="st5" d="M2050.1,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_180">
+					<text transform="matrix(1 0 0 1 2044.5479 732.3134)" class="st1 st2">0.2</text>
+				</g>
+			</g>
+			<g id="xtick_139">
+				<g id="line2d_139">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000054247377135002339150000001336055622288928906_" class="st5" d="M2081.9,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_181">
+					<text transform="matrix(1 0 0 1 2076.3027 732.3134)" class="st1 st2">0.4</text>
+				</g>
+			</g>
+			<g id="xtick_140">
+				<g id="line2d_140">
+					<g>
+						<g>
+							<path id="m8d50a85d93_00000042712631538236781580000008280551230686608044_" class="st5" d="M2113.6,719.2v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_182">
+					<text transform="matrix(1 0 0 1 2108.0576 732.3134)" class="st1 st2">0.6</text>
+				</g>
+			</g>
+		</g>
+		<g id="LineCollection_20">
+		</g>
+		<g id="patch_261">
+			<path class="st3" d="M2018.4,719.2v-4.5v-4.5h95.3v4.5v4.5H2018.4z"/>
+		</g>
+	</g>
+</g>
+</svg>

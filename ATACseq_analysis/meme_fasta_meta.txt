@@ -1,0 +1,6 @@
+aa_gain_atac
+aa_lost_atac
+nt_gain_atac
+nt_lost_atac
+nn_gain_atac
+nn_lost_atac
