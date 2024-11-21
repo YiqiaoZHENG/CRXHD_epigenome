@@ -1,5 +1,5 @@
 # Aberrant homeodomain-DNA cooperative dimerization underlies distinct developmental defects in two dominant _CRX_ retinopathy models
-This repository contains all codes and selected processed data necessary to reproduce figures in [Zheng et al.](https://pubmed.ncbi.nlm.nih.gov/38559186/)
+This repository contains all codes and selected processed data necessary to reproduce figures in [Zheng et al.](https://pubmed.ncbi.nlm.nih.gov/38559186/) doi: 10.1101/gr.279340.124
 
 ## Prerequisites and Data availability
 Necessary software packages with versions used to process data are described in text file software_versions.txt
